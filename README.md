@@ -12,7 +12,7 @@ Site fictício desenvolvido para financeira Finnas.
 Praticar conhecimentos sobre HTML5, CSS3 e Bootstrap
 
 -Praticar conhecimentos em Bootstrap;
--Utilização de Font Awosome;
+-Utilização de Font Awesome;
 -Aprimorar os conhecimentos em HTML e CSS;
 
 ```
