@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o projeto
 
-Site fictício desvolvido para financeira Finnas.
+Site fictício desenvolvido para financeira Finnas.
 
 ## :dart: Objetivo do Projeto
 
