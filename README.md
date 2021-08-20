@@ -27,7 +27,7 @@ Praticar conhecimentos sobre HTML5, CSS3 e Bootstrap
 
 ## :pager: Tela principal da Site Finnas
 
- <img src="img/darktheme.jpg" alt="Tela Principal">
+ <img src="https://github.com/cleuber-andrade/projeto_Finnas/blob/main/img/finnas.jpg" alt="Tela Principal">
 
  # 👷 Como rodar
 
