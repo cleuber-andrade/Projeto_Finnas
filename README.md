@@ -34,7 +34,7 @@ Praticar conhecimentos sobre HTML5, CSS3 e Bootstrap
 Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/projeto_Finnas/" target="_blank">Clique aqui</a>
  
 
- # 👷 Como rodar
+## 👷 Como rodar
 
 ```bash
 # Clonar o repositório
