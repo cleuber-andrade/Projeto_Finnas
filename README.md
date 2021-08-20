@@ -29,7 +29,7 @@ Praticar conhecimentos sobre HTML5, CSS3 e Bootstrap
 
  <img src="https://github.com/cleuber-andrade/projeto_Finnas/blob/main/img/finnas.jpg" alt="Tela Principal">
  
-## 💻 Link para acessar site no GitHubPages
+## :globe_with_meridians: Link para acessar site no GitHubPages
 
 Para visualizar o site no GitHubPages <a href="https://cleuber-andrade.github.io/projeto_Finnas/" target="_blank">Clique aqui</a>
  
